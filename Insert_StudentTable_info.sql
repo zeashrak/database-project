@@ -1,0 +1,2 @@
+INSERT INTO `acmuhd-db`.`student` (`StudentID`, `Name`, `Major`, `T-Shirt_Size`, `GatorMail`, `GPA`, `Membership_Level`, `Email`) 
+VALUES ('900123987', 'Sherlock Holmes', 'Top Secret', 'M', 'lock@gator.uhd.edu', '1.50', '6 months', 'secret@fbi.com');
