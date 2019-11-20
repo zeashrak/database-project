@@ -1,14 +1,11 @@
-show all data
-aggregate query
-all relationships
-er diagram
+Show all data
+Perform aggregate query
+Show all relationships
+Show ER diagram
 
 Make a demo (50%). Show all the major functionalities of your database product, including the following activities:
 
 1. First, display the ER-diagram (10 pts); 
-
 2. For each table, perform a query to show all data; (20 pts)
-
 3. For each table, perform a query using at least one of the aggregate functions; (30 pts)
-
 4. For each relationship, perform a joint query on the tables that are DIRECTLY related through that relationship. (40 pts)
